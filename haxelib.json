@@ -1,0 +1,14 @@
+{
+  "name": "cleversort",
+  "license": "Public",
+  "classPath": "src",
+  "tags": ["macro","syntax","sugar","util","helper"],
+  "description": "Syntax sugar for creating arrays that sorts on multiple properties.",
+  "contributors": ["jason"],
+  "releasenote": "Initial Release. ",
+  "version": "1.0.0",
+  "url": "https://github.com/jasononeil/cleversort",
+  "dependencies": {
+    "tink_macro": ""
+  }
+}
