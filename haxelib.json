@@ -2,11 +2,11 @@
   "name": "cleversort",
   "license": "Public",
   "classPath": "src",
-  "tags": ["macro","syntax","sugar","util","helper"],
+  "tags": ["macro","syntax","sugar","util","helper","array","sort"],
   "description": "Catch errors and trace them to the console.",
   "contributors": ["jason"],
-  "releasenote": "Initial Release. ",
-  "version": "1.0.1",
+  "releasenote": "Minor bug fix",
+  "version": "1.0.2",
   "url": "https://github.com/jasononeil/cleversort",
   "dependencies": {
     "tink_macro": ""
