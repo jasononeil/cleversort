@@ -3,10 +3,10 @@
   "license": "Public",
   "classPath": "src",
   "tags": ["macro","syntax","sugar","util","helper","array","sort"],
-  "description": "Catch errors and trace them to the console.",
+  "description": "A simple macro helper to make sorting arrays much prettier: array.cleverSort( _.age, _.name.toLowerCase() ).",
   "contributors": ["jason"],
-  "releasenote": "Minor bug fix",
-  "version": "1.0.2",
+  "releasenote": "Catch errors and trace them to the console.",
+  "version": "1.0.3",
   "url": "https://github.com/jasononeil/cleversort",
   "dependencies": {
     "tink_macro": ""
